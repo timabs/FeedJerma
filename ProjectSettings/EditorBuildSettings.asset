@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4f586f8c157e5db4fb374cf36883d6a6
+  - enabled: 1
+    path: Assets/Scenes/Cube Scenes/Level01 Cube.unity
+    guid: ba23c21774c262249880b8b507846090
+  - enabled: 1
+    path: Assets/Scenes/Cube Scenes/Level 02 Cube.unity
+    guid: 728e51b80740bfe4c8dcba9276bbfcec
+  - enabled: 1
+    path: Assets/Scenes/Cube Scenes/Level03 Cube.unity
+    guid: 48b84e01dc838364bbb633f8682381a1
+  - enabled: 1
+    path: Assets/Scenes/Level01.unity
+    guid: 8e8dacfb5d628f84eae6b9140a9dc2e5
+  - enabled: 1
+    path: Assets/Scenes/Level02.unity
+    guid: f8bbe01593f276341afed2261603d89e
+  - enabled: 1
+    path: Assets/Scenes/Level03.unity
+    guid: db334d23ae672c143acb7e2eeaf4bfbf
+  - enabled: 1
+    path: Assets/Scenes/YouWinScreen.unity
+    guid: e4d1bfcb74c8a1644a0e7c884c0374c3
+  m_configObjects: {}

@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: c70a7496645ddf14cbd0403cb3dde0d3
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 817Q3VCabwL._SL1500_
+    second: {fileID: 2800000, guid: c173bf53e37c2664b8148bc86765542e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AORUS3060TIFAN2
+    second: {fileID: 2800000, guid: c1883829664154449aebe2127fe62f8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AORUSRAM1
+    second: {fileID: 2800000, guid: 5913b7fc6dbcda24f826f8f5eff08c97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: B450AORUSPRO
+    second: {fileID: 2800000, guid: 605544a1ef1151b4f956d4e59098be7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Color-PewDiePie-Logo
+    second: {fileID: 2800000, guid: 340a465ed5db4a24d9baab7e9aaaac0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FAN1-OR-FAN2
+    second: {fileID: 2800000, guid: bc48df817df51ff4da3f83c0593d6605, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: IOSHIELD
+    second: {fileID: 2800000, guid: bd6d65a839a626b4d92a811c8169629d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOBOAORUSORANGETRANS
+    second: {fileID: 2800000, guid: cc842633c63b2b44da53ad376abf021d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MOUSEPAD TEXTURE
+    second: {fileID: 2800000, guid: c769282b447b0af4093acd91d6dc85b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MY_SCREEN
+    second: {fileID: 2800000, guid: 9f727966937c74e478dbc15110254307, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.001_baseColor
+    second: {fileID: 2800000, guid: 971b6e5b521ae4a40b2e5cbcf9d9d762, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.010_baseColor
+    second: {fileID: 2800000, guid: a1b219b7247f344439398852285d069c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.019_baseColor
+    second: {fileID: 2800000, guid: f0ae7a5e74f886b45b5ce2c2803c317e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.022_baseColor
+    second: {fileID: 2800000, guid: 4255e30cc099ed44dbd221962427d133, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.023_baseColor
+    second: {fileID: 2800000, guid: 7eab4c1bee41913459053ec9a74e8a37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.024_baseColor
+    second: {fileID: 2800000, guid: c9cf8e5a5f5a60e4a822dd9d33c46a87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.025_baseColor
+    second: {fileID: 2800000, guid: d13c6c11d876864489789e84f4d9d2b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.027_baseColor
+    second: {fileID: 2800000, guid: 3ab0af0674fdef54fbe71d19b9a18e3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NVIDIA LOGO
+    second: {fileID: 2800000, guid: 04e5019c56e367047bb9d2be7fa9c781, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnTheFly-bg_baseColor
+    second: {fileID: 2800000, guid: ce3844224fd4c934a8898b095613d03b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Red-UHD-Desktop-Wallpaper-for-4K-Ultra-HD-TV-Wide-Ultra-
+    second: {fileID: 2800000, guid: 92072fac03176144085dbdc58233786c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tasten_2_baseColor
+    second: {fileID: 2800000, guid: 3ebbd1d8d0f998b4f866f6bf87ddf07d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aorus case fans
+    second: {fileID: 2800000, guid: d76aa34af5ba55b45be4a9f59a09300a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aorus logotranspa
+    second: {fileID: 2800000, guid: e72b6cce3563eb7418cec2469c9d0538, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aorusramrgbstrip
+    second: {fileID: 2800000, guid: f2af4e7ffa427fb4287a4b0824642c7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: atc800fan
+    second: {fileID: 2800000, guid: 1ae28b19d4df3eb488c1353e5ba4defa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: atc800side
+    second: {fileID: 2800000, guid: f2e2b3dd99ead1a4890f9f84707ff95b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: atc800up-or-down
+    second: {fileID: 2800000, guid: f20770b08e0d20543b6e4fb97aa26899, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bg2
+    second: {fileID: 2800000, guid: db36f95df42db2b41bd01a15e51f39c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gallerymodel
+    second: {fileID: 2800000, guid: 736325234cb213c4ea89e7d7ce510b70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gigabyte-logo
+    second: {fileID: 2800000, guid: 1cd61180368f9524dbb2b8e56777c885, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: maxresdefault (1)
+    second: {fileID: 2800000, guid: 68ef8b9e69a95b348a108432d8e24ff6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal-mesh-500x500
+    second: {fileID: 2800000, guid: 6d1af35738a32b349bfad980eb2b6335, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pewdiepie-red-and-black-wavy-background-uhd-4k-wallpaper
+    second: {fileID: 2800000, guid: 034b430c373e5fa469068128f83a768a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: psuback
+    second: {fileID: 2800000, guid: cc72d59ccd3416c4da447bd8bfd790ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: psuside
+    second: {fileID: 2800000, guid: ac49e17a886dc7442b9f50cc05515d49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb
+    second: {fileID: 2800000, guid: ae064692cca17eb46803e793c6f38531, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1
+    second: {fileID: 2800000, guid: 6b2b4c8996e1bf54da654ee90de2f9f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: side
+    second: {fileID: 2800000, guid: 85b4d0020dd68654c9804a905ce9939c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: test-aorus-m2-souris-aorus-rgb2
+    second: {fileID: 2800000, guid: 032200db066589e4c8a4c74e97f0e172, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: top
+    second: {fileID: 2800000, guid: 288fac37a4e2d1447918765eba7e09fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: usb
+    second: {fileID: 2800000, guid: 72173818f3d401d4f8b5ee41ea80874a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wp2686930
+    second: {fileID: 2800000, guid: ae85ff2832a4a574eb02fcc55213da37, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
